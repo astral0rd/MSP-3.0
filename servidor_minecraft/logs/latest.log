@@ -447,3 +447,8 @@
 [30Jan2025 21:33:45.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.523s)! For help, type "help"
 [30Jan2025 21:33:45.183] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [30Jan2025 21:33:45.189] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: lootintegrations.json
+[30Jan2025 21:45:11.628] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@38737c14
+[30Jan2025 21:45:11.645] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: whoiisluis[/127.254.84.109:40165] logged in with entity id 152 at (5.189629588844342, 88.0, -14.715166767266002)
+[30Jan2025 21:45:11.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: whoiisluis joined the game
+[30Jan2025 21:45:11.814] [Server thread/INFO] [Jade/]: Syncing config to whoiisluis (7023d13d-a9a5-3ced-88d8-60d194fd5dbe)
+[30Jan2025 22:02:53.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: whoiisluis fell from a high place
