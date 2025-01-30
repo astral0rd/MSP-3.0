@@ -1,88 +1,126 @@
-[08:58:34] [ServerMain/INFO]: Building unoptimized datafixer
-[08:58:35] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[08:58:36] [ServerMain/INFO]: Loaded 7 recipes
-[08:58:37] [ServerMain/INFO]: Loaded 1179 advancements
-[08:58:38] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[08:58:38] [Server thread/INFO]: Loading properties
-[08:58:38] [Server thread/INFO]: Default game type: SURVIVAL
-[08:58:38] [Server thread/INFO]: Generating keypair
-[08:58:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:58:38] [Server thread/INFO]: Using epoll channel type
-[08:58:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[08:58:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[08:58:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[08:58:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[08:58:38] [Server thread/INFO]: Preparing level "world"
-[08:58:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[08:58:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[08:58:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:58:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[08:58:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[08:58:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:58:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:58:54] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:58:54] [Worker-Main-3/INFO]: Preparing spawn area: 1%
-[08:58:55] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[08:58:55] [Worker-Main-1/INFO]: Preparing spawn area: 3%
-[08:58:56] [Worker-Main-3/INFO]: Preparing spawn area: 4%
-[08:58:56] [Worker-Main-2/INFO]: Preparing spawn area: 5%
-[08:58:57] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[08:58:57] [Worker-Main-2/INFO]: Preparing spawn area: 7%
-[08:58:58] [Worker-Main-2/INFO]: Preparing spawn area: 9%
-[08:58:58] [Worker-Main-2/INFO]: Preparing spawn area: 10%
-[08:58:59] [Worker-Main-2/INFO]: Preparing spawn area: 12%
-[08:58:59] [Worker-Main-2/INFO]: Preparing spawn area: 15%
-[08:59:00] [Worker-Main-3/INFO]: Preparing spawn area: 16%
-[08:59:00] [Worker-Main-3/INFO]: Preparing spawn area: 17%
-[08:59:01] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[08:59:01] [Worker-Main-1/INFO]: Preparing spawn area: 20%
-[08:59:02] [Worker-Main-2/INFO]: Preparing spawn area: 22%
-[08:59:02] [Worker-Main-1/INFO]: Preparing spawn area: 24%
-[08:59:03] [Worker-Main-1/INFO]: Preparing spawn area: 25%
-[08:59:03] [Worker-Main-3/INFO]: Preparing spawn area: 27%
-[08:59:04] [Worker-Main-2/INFO]: Preparing spawn area: 30%
-[08:59:04] [Worker-Main-2/INFO]: Preparing spawn area: 32%
-[08:59:05] [Worker-Main-3/INFO]: Preparing spawn area: 34%
-[08:59:05] [Worker-Main-2/INFO]: Preparing spawn area: 35%
-[08:59:06] [Worker-Main-1/INFO]: Preparing spawn area: 37%
-[08:59:06] [Worker-Main-2/INFO]: Preparing spawn area: 38%
-[08:59:07] [Worker-Main-3/INFO]: Preparing spawn area: 41%
-[08:59:07] [Worker-Main-3/INFO]: Preparing spawn area: 43%
-[08:59:08] [Worker-Main-2/INFO]: Preparing spawn area: 45%
-[08:59:08] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[08:59:09] [Worker-Main-1/INFO]: Preparing spawn area: 50%
-[08:59:09] [Worker-Main-3/INFO]: Preparing spawn area: 52%
-[08:59:10] [Worker-Main-1/INFO]: Preparing spawn area: 55%
-[08:59:10] [Worker-Main-1/INFO]: Preparing spawn area: 57%
-[08:59:11] [Worker-Main-2/INFO]: Preparing spawn area: 59%
-[08:59:11] [Worker-Main-2/INFO]: Preparing spawn area: 61%
-[08:59:12] [Worker-Main-3/INFO]: Preparing spawn area: 64%
-[08:59:12] [Worker-Main-3/INFO]: Preparing spawn area: 67%
-[08:59:13] [Worker-Main-1/INFO]: Preparing spawn area: 68%
-[08:59:13] [Worker-Main-2/INFO]: Preparing spawn area: 70%
-[08:59:14] [Worker-Main-3/INFO]: Preparing spawn area: 72%
-[08:59:14] [Worker-Main-2/INFO]: Preparing spawn area: 74%
-[08:59:15] [Worker-Main-1/INFO]: Preparing spawn area: 78%
-[08:59:15] [Worker-Main-2/INFO]: Preparing spawn area: 81%
-[08:59:16] [Worker-Main-3/INFO]: Preparing spawn area: 83%
-[08:59:16] [Worker-Main-2/INFO]: Preparing spawn area: 85%
-[08:59:17] [Worker-Main-2/INFO]: Preparing spawn area: 87%
-[08:59:17] [Worker-Main-2/INFO]: Preparing spawn area: 90%
-[08:59:18] [Worker-Main-3/INFO]: Preparing spawn area: 92%
-[08:59:18] [Worker-Main-1/INFO]: Preparing spawn area: 95%
-[08:59:19] [Worker-Main-3/INFO]: Preparing spawn area: 98%
-[08:59:19] [Server thread/INFO]: Time elapsed: 28190 ms
-[08:59:19] [Server thread/INFO]: Done (41.201s)! For help, type "help"
-[08:59:19] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[08:59:19] [Server thread/INFO]: home/codespace/.python/current/bin/python3 /workspaces/MSP-3.0/msx.py<--[HERE]
-[09:00:29] [Server thread/INFO]: Stopping the server
-[09:00:29] [Server thread/INFO]: Stopping server
-[09:00:29] [Server thread/INFO]: Saving players
-[09:00:29] [Server thread/INFO]: Saving worlds
-[09:00:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[09:00:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[09:00:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[09:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09:02:12] [ServerMain/INFO]: Building unoptimized datafixer
+[09:02:13] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09:02:14] [ServerMain/INFO]: Loaded 7 recipes
+[09:02:15] [ServerMain/INFO]: Loaded 1179 advancements
+[09:02:15] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[09:02:15] [Server thread/INFO]: Loading properties
+[09:02:15] [Server thread/INFO]: Default game type: SURVIVAL
+[09:02:15] [Server thread/INFO]: Generating keypair
+[09:02:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:02:16] [Server thread/INFO]: Using epoll channel type
+[09:02:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:02:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:02:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:02:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:02:16] [Server thread/INFO]: Preparing level "world"
+[09:02:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:02:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:02:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:02:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:02:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:02:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:02:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:02:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:02:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:02:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:02:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:02:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:02:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:02:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:02:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:02:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:02:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:02:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:02:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:02:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:02:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:02:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:02:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:02:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:02:28] [Worker-Main-1/INFO]: Preparing spawn area: 32%
+[09:02:28] [Server thread/INFO]: Time elapsed: 12002 ms
+[09:02:28] [Server thread/INFO]: Done (12.329s)! For help, type "help"
+[09:04:12] [Server thread/INFO]: whoisluis?[/127.254.84.109:42735] logged in with entity id 103 at (-4.5, 70.0, 8.5)
+[09:04:12] [Server thread/INFO]: whoisluis? joined the game
+[09:04:57] [Server thread/INFO]: axvelw[/127.87.234.71:33863] logged in with entity id 274 at (3.5, 70.0, -2.5)
+[09:04:57] [Server thread/INFO]: axvelw joined the game
+[09:09:13] [Server thread/INFO]: whoisluis? lost connection: Disconnected
+[09:09:13] [Server thread/INFO]: whoisluis? left the game
+[09:09:42] [Server thread/INFO]: axvelw has made the advancement [Stone Age]
+[09:10:11] [Server thread/INFO]: axvelw has made the advancement [Getting an Upgrade]
+[09:10:43] [Server thread/INFO]: axvelw has made the advancement [Monster Hunter]
+[09:12:04] [Server thread/INFO]: whoiisluis[/127.254.84.109:60207] logged in with entity id 1136 at (1.5, 70.0, -5.5)
+[09:12:04] [Server thread/INFO]: whoiisluis joined the game
+[09:13:13] [Server thread/INFO]: whoiisluis has made the advancement [Stone Age]
+[09:13:21] [Server thread/INFO]: whoiisluis has made the advancement [Getting an Upgrade]
+[09:15:04] [Server thread/INFO]: whoiisluis was shot by Skeleton
+[09:16:43] [Server thread/INFO]: Edi.zzz[/127.246.22.219:50605] logged in with entity id 1875 at (6.5, 70.0, -5.5)
+[09:16:43] [Server thread/INFO]: Edi.zzz joined the game
+[09:17:27] [Server thread/INFO]: whoiisluis has made the advancement [Monster Hunter]
+[09:17:57] [Server thread/INFO]: Edi.zzz has made the advancement [Stone Age]
+[09:18:24] [Server thread/INFO]: Edi.zzz has made the advancement [Getting an Upgrade]
+[09:19:29] [Server thread/INFO]: axvelw was impaled on a stalagmite
+[09:26:55] [Server thread/INFO]: [Not Secure] <axvelw> Y yo teniendolo en 32
+[09:26:59] [Server thread/INFO]: [Not Secure] <axvelw> JAJAJAJAJ
+[09:27:16] [Server thread/INFO]: axvelw has made the advancement [Acquire Hardware]
+[09:28:11] [Server thread/INFO]: axvelw has made the advancement [Isn't It Iron Pick]
+[09:28:49] [Server thread/INFO]: axvelw has made the advancement [Diamonds!]
+[09:34:45] [Server thread/INFO]: Edi.zzz has made the advancement [Acquire Hardware]
+[09:34:53] [Server thread/INFO]: Edi.zzz has made the advancement [Isn't It Iron Pick]
+[09:36:34] [Server thread/INFO]: Edi.zzz has made the advancement [Hot Stuff]
+[09:40:10] [Server thread/INFO]: Edi.zzz has made the advancement [Not Today, Thank You]
+[09:40:13] [Server thread/INFO]: whoiisluis has made the advancement [Acquire Hardware]
+[09:40:13] [Server thread/INFO]: Edi.zzz has made the advancement [Monster Hunter]
+[09:40:27] [Server thread/INFO]: whoiisluis has made the advancement [Isn't It Iron Pick]
+[09:40:32] [Server thread/INFO]: whoiisluis has made the advancement [Diamonds!]
+[09:41:41] [Server thread/INFO]: whoiisluis has made the advancement [Suit Up]
+[09:44:07] [Server thread/INFO]: [Not Secure] <axvelw> 71 69 -7
+[09:44:50] [Server thread/INFO]: axvelw has made the advancement [Suit Up]
+[09:48:52] [Server thread/INFO]: [Not Secure] <whoiisluis> 238 -18 -78
+[09:58:17] [Server thread/INFO]: Edi.zzz was blown up by Creeper
+[09:59:13] [Server thread/INFO]: axvelw has made the advancement [Ice Bucket Challenge]
+[09:59:48] [Server thread/INFO]: Edi.zzz has made the advancement [Ice Bucket Challenge]
+[10:17:15] [Server thread/INFO]: axvelw has made the advancement [Not Today, Thank You]
+[10:20:10] [Server thread/INFO]: axvelw has made the advancement [Sweet Dreams]
+[10:20:14] [Server thread/INFO]: Edi.zzz has made the advancement [Sweet Dreams]
+[10:21:14] [Server thread/INFO]: whoiisluis has made the advancement [Best Friends Forever]
+[10:21:45] [Server thread/INFO]: Edi.zzz has made the advancement [We Need to Go Deeper]
+[10:21:45] [Server thread/WARN]: Horse (vehicle of whoiisluis) moved too quickly! -0.20673051091603156,0.8288313943112797,-10.033812751803922
+[10:21:45] [Server thread/WARN]: Horse (vehicle of whoiisluis) moved too quickly! -0.2112091173636088,0.9319270647767297,-10.326209875944798
+[10:21:45] [Server thread/WARN]: Horse (vehicle of whoiisluis) moved too quickly! -0.21540743072897328,0.9541081471234492,-10.603359890081592
+[10:21:45] [Server thread/INFO]: axvelw has made the advancement [We Need to Go Deeper]
+[10:26:59] [Server thread/INFO]: axvelw has made the advancement [Enchanter]
+[10:37:48] [Server thread/INFO]: whoiisluis has made the advancement [Ice Bucket Challenge]
+[10:46:16] [Server thread/WARN]: Horse (vehicle of whoiisluis) moved wrongly! 0.3920077662919539
+[10:46:16] [Server thread/WARN]: Horse (vehicle of whoiisluis) moved wrongly! 0.8963998617182369
+[10:51:50] [Server thread/INFO]: axvelw lost connection: Disconnected
+[10:51:50] [Server thread/INFO]: axvelw left the game
+[10:52:07] [Server thread/INFO]: whoiisluis has made the advancement [Sweet Dreams]
+[11:01:43] [Server thread/INFO]: whoiisluis has made the advancement [The Parrots and the Bats]
+[11:03:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-203, y=118, z=1295} gt{x=-204, y=116, z=1295}
+[11:05:21] [Server thread/INFO]: Villager btp['Leatherworker'/31741, l='ServerLevel[world]', x=-23.46, y=64.94, z=1249.72] died, message: 'Leatherworker was slain by Zombie'
+[11:10:05] [Server thread/INFO]: Edi.zzz lost connection: Disconnected
+[11:10:05] [Server thread/INFO]: Edi.zzz left the game
+[11:10:12] [Server thread/INFO]: Edi.zzz[/127.246.22.219:39641] logged in with entity id 47669 at (-7.5, 77.0, 1305.5)
+[11:10:12] [Server thread/INFO]: Edi.zzz joined the game
+[11:25:31] [Server thread/INFO]: Edi.zzz lost connection: Disconnected
+[11:25:31] [Server thread/INFO]: Edi.zzz left the game
+[11:26:42] [Server thread/INFO]: Edi.zzz[/127.246.22.219:48931] logged in with entity id 51391 at (3.300000011920929, 77.0, 1306.3058601750179)
+[11:26:42] [Server thread/INFO]: Edi.zzz joined the game
+[11:27:16] [Server thread/INFO]: Edi.zzz lost connection: Disconnected
+[11:27:16] [Server thread/INFO]: Edi.zzz left the game
+[11:27:19] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[11:27:19] [Server thread/INFO]: stopstop<--[HERE]
+[11:27:20] [Server thread/INFO]: whoiisluis lost connection: Disconnected
+[11:27:20] [Server thread/INFO]: whoiisluis left the game
+[11:27:23] [Server thread/INFO]: Stopping the server
+[11:27:23] [Server thread/INFO]: Stopping server
+[11:27:23] [Server thread/INFO]: Saving players
+[11:27:23] [Server thread/INFO]: Saving worlds
+[11:27:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:27:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11:27:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11:27:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:27:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:27:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:27:24] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
