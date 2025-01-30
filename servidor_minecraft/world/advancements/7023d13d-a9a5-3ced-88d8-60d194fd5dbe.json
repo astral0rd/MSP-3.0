@@ -114,6 +114,13 @@
     },
     "done": true
   },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "yellow": "2025-01-30 22:24:12 +0000",
+      "violet": "2025-01-30 22:24:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-01-30 12:55:31 +0000",
