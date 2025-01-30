@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "crystals_overhauled:crystal_clear_advancement": {
+    "criteria": {
+      "crystal_clear_advancement": "2025-01-30 22:44:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-30 12:08:12 +0000"
@@ -110,6 +116,12 @@
     },
     "done": false
   },
+  "crystals_overhauled:peridotite_prospector": {
+    "criteria": {
+      "peridotite_prospector": "2025-01-30 22:44:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-01-30 12:03:50 +0000"
@@ -129,6 +141,7 @@
       "minecraft:river": "2025-01-30 12:55:31 +0000",
       "minecraft:stony_shore": "2025-01-30 12:01:12 +0000",
       "minecraft:dripstone_caves": "2025-01-30 12:33:09 +0000",
+      "minecraft:cold_ocean": "2025-01-30 22:46:55 +0000",
       "minecraft:forest": "2025-01-30 12:04:29 +0000",
       "minecraft:meadow": "2025-01-30 12:08:39 +0000",
       "minecraft:plains": "2025-01-30 12:00:17 +0000"
